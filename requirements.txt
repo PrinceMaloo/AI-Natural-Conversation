@@ -1,0 +1,6 @@
+speechrecognition
+pyttsx3
+PyAudio
+google.generativeai
+transformers
+setuptools
