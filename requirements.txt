@@ -4,3 +4,4 @@ PyAudio
 google.generativeai
 transformers
 setuptools
+python-dotenv
